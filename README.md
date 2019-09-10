@@ -19,6 +19,7 @@ en +
  - HTML5 - CSS - Vanilla JS à l'ancienne :)
 
 ### Remarques
+ - clone directement ce repo chez toi et créer une branche à ton nom pour push ton code avant qu'on se rencontre.
  - L'idée n'est pas de réaliser quelque chose de parfait mais de voir ce que tu es capable de faire dans un temps limité. 
  - Essayez de soigner le visuel autant que le fonctionnel, les 2 sont importants.
 
